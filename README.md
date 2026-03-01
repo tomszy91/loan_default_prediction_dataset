@@ -28,7 +28,6 @@ Analysis of a dataset containing 255,347 unique loan records. The project focuse
 * **numpy** – Numerical computing
 * **matplotlib** – Data visualization
 * **seaborn** – Advanced statistical graphics
-* **openpyxl** – Excel file integration
 * **jupyter** – Analytical environment
 
 ## Project Structure
