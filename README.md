@@ -33,7 +33,7 @@ Analysis of a dataset containing 255,347 unique loan records. The project focuse
 ## Project Structure
 
 ```bash
-online_retail_dataset/
+loan_default_prediction/
 ├── data/
 │   └── Loan_default.csv
 ├── loan_default_prediction.ipynb
@@ -47,8 +47,8 @@ online_retail_dataset/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tomszy91/loan_default_prediction_dataset.git
-    cd loan_default_prediction_dataset
+    git clone https://github.com/tomszy91/loan_default_prediction.git
+    cd loan_default_prediction
     ```
 
 2. Install the required dependencies:
