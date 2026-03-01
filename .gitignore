@@ -1,9 +1,4 @@
 *.vscode
 *.code-workspace
-
 plan.md
-
-*.txt
-*.png
-
-
+workbook.txt
